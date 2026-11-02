@@ -1,0 +1,16 @@
+# Local environments and Python caches
+.venv/
+.venv-generation/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+
+# Analysis artifacts recreated by reproduction.run; paper PNGs are retained.
+/output/
+
+# Fresh GPU inference outputs
+/generated/
+
+# Local tests
+/tests/
