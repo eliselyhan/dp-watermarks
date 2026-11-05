@@ -1,5 +1,6 @@
 # Reconciling Privacy with Provenance for Language Model Watermarks
-[arxiv link]
+[Read the paper on arXiv](https://arxiv.org/abs/2611.06100)
+
 ## Reproduce the paper figures
 
 Rebuild all 11 paper figures from bundled completion token IDs on CPU. Use Python 3.13.
